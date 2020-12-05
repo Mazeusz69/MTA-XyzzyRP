@@ -9,7 +9,11 @@ z XyzzyRP wykorzystane zostały takie elementy jak system pojazdów,
 komendy administracyjne, integracja z bazą danych (DB2), niektóre
 prace.
 
+## [Modern Stories](http://msmta.pl)
 
+Serwer korzystający z kilku funkcji przeniesionych z XyzzyRP, 
+które pomogły bardzo w rozwoju serwera. Bezpośrednio z gamemoda zostały 
+wykorzystane elementy takie jak integracja z bazą danych oraz "dodatki" do frakcji.
 
 ## [Polski Realny Serwer](mtasa://178.19.106.171:22106)
 
