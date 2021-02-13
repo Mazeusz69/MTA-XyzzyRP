@@ -27,6 +27,9 @@ Serwer korzystający z XyzzyRP przerobionego na serwer RPG.
 ## [New Real Life](mtasa://193.70.126.129:20000)
 Serwer korzystający z XyzzyRP przerobionego na serwer RPG.
 
-
+## [Modern Stories](http://msmta.pl/)
+Serwer korzystający z wielu funkcji XyzzyRP. Bezpośrednie elementy które
+zostały wykorzystane na serwerze to komendy administracyjne, 
+połączenie Mysql, niektóre prace, animacje.
 
 Jeśli korzystasz z tego kodu i chesz się tym pochwalić, zmodyfikuj ten plik i dopisz swój serwer.
